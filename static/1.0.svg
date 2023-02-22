@@ -1,0 +1,14 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <line style="--darkreader-inline-stroke: #938979;" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="315" x2="669.40001" y1="318" x1="133.39999" stroke="#000" fill="none"/>
+  <line style="--darkreader-inline-stroke: #938979;" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="278" x2="184.39999" y1="317" x1="132.39999" stroke="#000" fill="none"/>
+  <line style="--darkreader-inline-stroke: #938979;" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="316" x2="670.39999" y1="355" x1="618.39999" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_8" y2="356" x2="180.39999" y1="318" x1="133.39999" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_12" y2="281" x2="618.39999" y1="315" x1="668.39999" stroke="#000" fill="none"/>
+  <ellipse ry="6.5" rx="6.5" id="svg_13" cy="317.5" cx="405.89999" stroke="#000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_14" y="289" x="377.39999" stroke="#000" fill="#000000"/>
+  <text style="--darkreader-inline-fill: #f4f2ee; --darkreader-inline-stroke: #938979;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_15" y="286" x="382" stroke="#000" fill="#000000">自由</text>
+ </g>
+</svg>
